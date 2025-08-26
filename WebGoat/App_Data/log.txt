@@ -1,0 +1,21 @@
+DEBUG 2025-08-25 21:43:31,429   108ms Settings               Init               - DYLD_FALLBACK_LIBRARY_PATH: 
+DEBUG 2025-08-25 21:43:31,474   153ms Settings               Init               - PWD: C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET
+INFO  2025-08-25 21:43:31,505   184ms DbProviderFactory      Create             - Creating mocked data provider for hackathon
+DEBUG 2025-08-25 21:46:18,209    68ms Settings               Init               - DYLD_FALLBACK_LIBRARY_PATH: 
+DEBUG 2025-08-25 21:46:18,226    85ms Settings               Init               - PWD: C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET
+INFO  2025-08-25 21:46:18,227    86ms DbProviderFactory      Create             - Creating mocked data provider for hackathon
+DEBUG 2025-08-25 21:48:37,955   101ms Settings               Init               - DYLD_FALLBACK_LIBRARY_PATH: 
+DEBUG 2025-08-25 21:48:37,993   139ms Settings               Init               - PWD: C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET
+INFO  2025-08-25 21:48:37,995   141ms DbProviderFactory      Create             - Creating mocked data provider for hackathon
+DEBUG 2025-08-25 21:55:42,188   144ms Settings               Init               - DYLD_FALLBACK_LIBRARY_PATH: 
+DEBUG 2025-08-25 21:55:42,252   207ms Settings               Init               - PWD: C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET
+INFO  2025-08-25 21:55:42,273   229ms DbProviderFactory      Create             - Creating mocked data provider for hackathon
+DEBUG 2025-08-26 09:19:16,070   107ms Settings               Init               - DYLD_FALLBACK_LIBRARY_PATH: 
+DEBUG 2025-08-26 09:19:16,125   162ms Settings               Init               - PWD: C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET
+INFO  2025-08-26 09:19:16,151   188ms DbProviderFactory      Create             - Creating mocked data provider for hackathon
+DEBUG 2025-08-26 09:21:21,700    98ms Settings               Init               - DYLD_FALLBACK_LIBRARY_PATH: 
+DEBUG 2025-08-26 09:21:21,748   146ms Settings               Init               - PWD: C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET
+INFO  2025-08-26 09:21:21,751   149ms DbProviderFactory      Create             - Creating mocked data provider for hackathon
+DEBUG 2025-08-26 09:24:31,807    65ms Settings               Init               - DYLD_FALLBACK_LIBRARY_PATH: 
+DEBUG 2025-08-26 09:24:31,843   102ms Settings               Init               - PWD: C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET
+INFO  2025-08-26 09:24:31,845   104ms DbProviderFactory      Create             - Creating mocked data provider for hackathon

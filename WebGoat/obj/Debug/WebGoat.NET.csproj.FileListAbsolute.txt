@@ -1,0 +1,17 @@
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\obj\Debug\WebGoat.NET.csproj.AssemblyReference.cache
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\obj\Debug\WebGoat.NET.csproj.CoreCompileInputs.cache
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\bin\DotNetGoat.dll
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\bin\DotNetGoat.pdb
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\bin\log4net.dll
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\bin\Mono.Data.Sqlite.dll
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\bin\mysql.data.dll
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\bin\mysql.data.entity.dll
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\bin\mysql.visualstudio.dll
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\bin\mysql.web.dll
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\bin\EnvDTE80.dll
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\bin\EnvDTE.dll
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\bin\stdole.dll
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\bin\log4net.xml
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\obj\Debug\WebGoat..72AD949B.Up2Date
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\obj\Debug\DotNetGoat.dll
+C:\Users\gonzaler\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Escritorio\Hackathon Mx\WebGoat.NET\WebGoat\obj\Debug\DotNetGoat.pdb
